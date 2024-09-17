@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tauri-pardit</string>
+    <string name="main_activity_title">tauri-pardit</string>
+</resources>
