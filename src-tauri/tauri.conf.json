@@ -23,6 +23,7 @@
 		}
 	},
 	"bundle": {
+		"iOS": { "developmentTeam": "test" },
 		"active": true,
 		"targets": "all",
 		"icon": [
