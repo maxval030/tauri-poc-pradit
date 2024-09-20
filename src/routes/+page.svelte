@@ -10,8 +10,8 @@
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-5 max-w-96">
-		<h1 class="h1">Let's get cracking 111!asdasdssasadsssdsds23212s</h1>
-		<h5>{title}222</h5>
+		<h1 class="h1">Let's get cracking</h1>
+		<h5>{title}</h5>
 		<p>Start by exploring:</p>
 		<ul>
 			<li><code class="code">/src/routes/+layout.svelte</code> - barebones layout</li>

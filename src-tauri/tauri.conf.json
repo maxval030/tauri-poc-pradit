@@ -9,6 +9,7 @@
 		"beforeBuildCommand": "pnpm build"
 	},
 	"app": {
+		"withGlobalTauri": true,
 		"windows": [
 			{
 				"title": "tauri pardit",
@@ -34,5 +35,6 @@
 			"icons/icon.ico"
 		]
 	},
+
 	"$schema": "../node_modules/@tauri-apps/cli/config.schema.json"
 }
