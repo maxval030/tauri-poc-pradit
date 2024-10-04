@@ -15,7 +15,7 @@ export default defineConfig({
 			? {
 					protocol: 'ws',
 					host,
-					port: 5173
+					port: 5172
 				}
 			: undefined
 	}
